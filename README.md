@@ -1,2 +1,5 @@
-# super-duper-train
-A new mobile application for tracking daily tasks.
+# Trading Project 🚀
+Ini project pertama gue di GitHub
+
+## Tujuan
+Belajar coding + bikin cuan 😄
